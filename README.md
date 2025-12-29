@@ -3,6 +3,7 @@ Este é um jogo clássico de **Pedra, Papel e Tesoura** desenvolvido em Python c
 Como funciona?
 - Modo Jogador vs Computador
 - Interface Colorida
+
 O que eu utilizei?
 - Biblioteca Colorama
 - Biblioteca Random
