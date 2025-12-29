@@ -6,4 +6,5 @@ O que eu utilizei?
 - Biblioteca Colorama
 - Biblioteca Random
 - Biblioteca Time
+
 #Para rodar o código certifique de ter o python instalado, clone esse repositório e execute após o download da biblioteca colorama.
